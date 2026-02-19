@@ -1,6 +1,6 @@
 # Zoho Valid Email Checker
 
-![image](https://raw.githubusercontent.com/alexrony21/Zoho-Valid-Email-Checker/refs/heads/main/Zoho_Valid_Email_Checker.png)
+![image](https://raw.githubusercontent.com/alexrony21/Zoho-Valid-Email-Checker/refs/heads/main/zoho-email-validator.png)
 
 ## Features:
 1. Accurate Result
