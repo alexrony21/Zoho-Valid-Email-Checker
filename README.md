@@ -3,12 +3,12 @@
 ![image](https://raw.githubusercontent.com/alexrony21/Zoho-Valid-Email-Checker/refs/heads/main/Zoho_Valid_Email_Checker.png)
 
 ## Features:
-1. **Accurate Result**: Ensures precise email validation for reliable results.
-2. **Support MultiProcessing**: Allows simultaneous checking of multiple emails for faster results.
-3. **Support HTTP Proxy**: Routes requests through proxies to mask IP addresses or avoid restrictions.
-4. **Advanced Mechanism**: Ensures no emails are skipped.
-5. **Support Random useragents**: Using Random UserAgents for better performance.
-6. **Unlimited Checking**: There is not limit of checking just use proxy and check as much as you want.
+1. Accurate Result
+2. Support MultiProcessing
+3. Support HTTP Proxy
+4. Advanced Mechanism
+5. Support Random useragents
+6. Unlimited Checking
 
 ---
 
