@@ -1,6 +1,6 @@
 # Zoho Valid Email Checker
 
-![image](https://raw.githubusercontent.com/alexrony21/Zoho-Valid-Email-Checker/refs/heads/main/zoho-email-validator.png)
+![Zoho Valid Email Checker](https://raw.githubusercontent.com/pythoncode26/zoho-email-checker/refs/heads/main/zoho-valid-email-checker.png)
 
 ## Features:
 1. Accurate Result
@@ -12,11 +12,16 @@
 
 ---
 
-## Contact:
-If you want to purchase this tool, contact me via Telegram: [@thepythoncode97](https://t.me/thepythoncode97)
+## 🤝 Get in Touch
+
+if you want to purchase,
+
+- Email     : elowenreply@gmail.com
+- Telegram  : [@thepythoncode97](https://t.me/thepythoncode97)
+
 
 ## Note:
-This tool is designed for marketers and businesses. If you engage in any illegal activities using this tool, the author will not take any responsibility.
+If you engage in any illegal activities using this tool, the author will not take any responsibility.
 
 ---
 Thanks!
